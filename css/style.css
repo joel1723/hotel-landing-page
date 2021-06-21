@@ -26,6 +26,23 @@ p {
   overflow: auto;
   padding: 0px 20 px;
 }
+.text-primary{
+   color:#f7c08a ; 
+}
+.lead {
+    font-size: 20px;
+}
+.btn{
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    background: #333;
+    padding: 13px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+ 
 
 /* navbar*/
 #navbar {
@@ -71,3 +88,10 @@ p {
   font-size: 60px;
   line-height: 1.2em;
 }
+#showcase .showcase-content p{
+    padding-bottom: 20px;
+    line-height: 1.5em; 
+
+
+}
+
