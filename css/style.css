@@ -150,6 +150,25 @@ padding-top: 20px;
     margin-bottom: 10px;
 }
 /*about-info*/
+
+#about-info .info-right{
+    float: right;
+    width: 50%;
+    min-height: 100%;
+
+}
+#about-info .info-right img{
+    display: block;
+    max-width: auto;
+    width: 70%;
+}
+#about-info .info-left{
+    float: left;
+    width: 50%;
+    min-height: 100%;
+}
+
+
 /*main-footer*/
 #main-footer{
     text-align: center;
